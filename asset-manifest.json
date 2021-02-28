@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6bba9e1c.chunk.css",
+    "main.js": "/static/js/main.e21134ec.chunk.js",
+    "main.js.map": "/static/js/main.e21134ec.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d62f48d5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d62f48d5.js.map",
+    "static/css/2.02daa001.chunk.css": "/static/css/2.02daa001.chunk.css",
+    "static/js/2.06cc5132.chunk.js": "/static/js/2.06cc5132.chunk.js",
+    "static/js/2.06cc5132.chunk.js.map": "/static/js/2.06cc5132.chunk.js.map",
+    "static/js/3.fa8d7815.chunk.js": "/static/js/3.fa8d7815.chunk.js",
+    "static/js/3.fa8d7815.chunk.js.map": "/static/js/3.fa8d7815.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.02daa001.chunk.css.map": "/static/css/2.02daa001.chunk.css.map",
+    "static/css/main.6bba9e1c.chunk.css.map": "/static/css/main.6bba9e1c.chunk.css.map",
+    "static/js/2.06cc5132.chunk.js.LICENSE.txt": "/static/js/2.06cc5132.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/static/media/swing.c0c802a2.jpg",
+    "static/media/moon.361ad01b.svg": "/static/media/moon.361ad01b.svg",
+    "static/media/p1.952e453b.jpg": "/static/media/p1.952e453b.jpg",
+    "static/media/p10.b1e8cb58.jpg": "/static/media/p10.b1e8cb58.jpg",
+    "static/media/p2.f3a705fe.jpg": "/static/media/p2.f3a705fe.jpg",
+    "static/media/p3.60703f39.jpg": "/static/media/p3.60703f39.jpg",
+    "static/media/p4.9dd915ca.jpg": "/static/media/p4.9dd915ca.jpg",
+    "static/media/p5.45b7b0d7.jpg": "/static/media/p5.45b7b0d7.jpg",
+    "static/media/p6.84c3c7a7.jpg": "/static/media/p6.84c3c7a7.jpg",
+    "static/media/p7.5868dbdd.jpg": "/static/media/p7.5868dbdd.jpg",
+    "static/media/p8.08b7fdff.jpg": "/static/media/p8.08b7fdff.jpg",
+    "static/media/p9.11b0b9f0.jpg": "/static/media/p9.11b0b9f0.jpg",
+    "static/media/university.ed5e7c7f.png": "/static/media/university.ed5e7c7f.png",
+    "static/media/van-gogh-starry-night-low.9f6b06a7.jpg": "/static/media/van-gogh-starry-night-low.9f6b06a7.jpg",
+    "static/media/van-gogh-terrace.4407e579.jpg": "/static/media/van-gogh-terrace.4407e579.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d62f48d5.js",
+    "static/css/2.02daa001.chunk.css",
+    "static/js/2.06cc5132.chunk.js",
+    "static/css/main.6bba9e1c.chunk.css",
+    "static/js/main.e21134ec.chunk.js"
+  ]
+}
