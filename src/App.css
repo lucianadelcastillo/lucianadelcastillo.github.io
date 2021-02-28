@@ -18,6 +18,7 @@
   justify-content: center;
 }
 .navbar-link {
+  white-space: nowrap;
   font-size: 2rem;
   font-family: Helvetica;
   text-decoration: none;

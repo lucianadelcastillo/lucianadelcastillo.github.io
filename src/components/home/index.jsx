@@ -15,7 +15,7 @@ class Home extends React.Component {
                 <img src={moon} id={'moon'}/>
             </div>
             <Parallax bgImage={starryNight}  bgImageStyle={{width : '100vw', height : 'auto'}} strength={500}>
-                <div style={{height: '90vh'}}/>
+                <div style={{height: '650px'}}/>
                 <div className={'quote'}>
                 <p id={'quote'}>"On ne voit bien qu'avec le coeur.
                         L'essentiel est invisible pour les yeux."
@@ -24,7 +24,7 @@ class Home extends React.Component {
             </Parallax>
 
             <Parallax bgImage={terrace}  bgImageStyle={{width : '100vw', height : 'auto'}} strength={500}>
-                <div style={{height : '200vh'}}></div>
+                <div style={{height : '1700px'}}></div>
                 <div id="footer">
                     <p className="footer-text" style={{'margin' : '10px'}}>Luciana del Castillo</p>
                     <p className="footer-text" style={{'margin' : '10px'}}>lucianadelcastillo@gmail.com</p>
