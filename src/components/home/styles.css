@@ -1,0 +1,80 @@
+#luna-div {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(0,0,0,0.8);
+}
+#ldc {
+    font-size: 10rem;
+    color: #9c9e73;
+    font-family: 'Open Sans', sans-serif;
+    animation-name: ldc-animation;
+    animation-duration: 60s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-delay: 1s;
+}
+.quote {
+    font-family: Sacramento;
+    height: 30vh;
+    font-family: 'Sacramento';
+    font-size: 4rem;
+    font-weight: bold;
+    width: 100%;
+    //background-color: rgba(255, 255, 255, 0.3);
+}
+#quote {
+
+    height: 100%;
+    position: relative;
+    text-align: center;
+    float: right;
+    bottom: 40px;
+    padding: 10px;
+    display: block;
+    width: 50rem;
+
+}
+#footer {
+    font-family: SansSerif;
+    height: 2rem;
+    width: 100%;
+    font-size: 1rem;
+    font-weight: lighter;
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#moon {
+    animation-name: moon-animation;
+    animation-duration: 60s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-delay: 1s;
+}
+@keyframes moon-animation {
+    0% {
+        opacity: 1;
+        transform: rotate(0deg);
+    }
+    50% {
+        opacity: 0;
+        transform: rotate(-180deg);
+    }
+    100% {
+        opacity: 1;
+        transform: rotate(-360deg);
+    }
+}
+@keyframes ldc-animation {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}

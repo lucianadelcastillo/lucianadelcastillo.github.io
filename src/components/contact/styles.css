@@ -1,0 +1,31 @@
+#contact {
+    background: url('../../media/blue-louis-vitton.jpg');
+    height: 150vh;
+    background-size: cover;
+}
+#contact-message {
+    margin-top:0;
+    padding-top: 20vh;
+    font-weight: lighter;
+    font-size: 4rem;
+    animation: fade-in ease-in 1s;
+}
+#contacts {
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.agent {
+    text-decoration: none;
+    font-size: 3rem;
+    color: black;
+    font-family: Roboto;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    animation: fade-in ease 3s;
+}
+.agent:hover {
+    background-color: rgba(0,0,0,0.1);
+}

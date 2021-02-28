@@ -1,0 +1,32 @@
+#fashion-styling {
+    background: url('../../media/rainbow.jpg');
+    height: 140vh;
+    background-size: cover;
+}
+#prev-button {
+    display: block;
+    text-align: right;
+    padding-right: 10px;
+    padding-top: 0;
+    margin: 0;
+    color: white;
+}
+#prev-button:hover {
+    color: gray;
+}
+#next-button {
+    display: block;
+    text-align: left;
+    padding-left: 10px;
+    margin: 0;
+    color: white;
+}
+#next-button:hover {
+    color: gray;
+}
+
+.carousel-images {
+    height: 65vh;
+    padding-top: 10vh;
+
+}

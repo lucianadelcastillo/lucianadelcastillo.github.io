@@ -1,0 +1,23 @@
+#about {
+    background: url('../../media/swing.jpg') 0% 70%;
+    height: 100vh;
+    background-size: cover;
+}
+
+#name {
+    position: relative;
+    top: 10%;
+    font-size: 6rem;
+    color: rgba(10,10,10,0.6);
+    margin-top:0;
+    animation: fade-in ease-in 1s;
+}
+.about-paragraphs {
+    display: block;
+    font-size: 2rem;
+    padding-top: 10%;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    color: rgba(250, 250, 250);
+    animation: fade-in ease 3s;
+}
